@@ -38,32 +38,33 @@ Morbidly obese – BMI 40.0 and above
 ### Screenshot of The App: 
 
 **Splash Screen:**
-<img src="https://github.com/arikaafrinboshra/BPSC-Quiz-App/blob/master/BPSC%20Quiz%20ss/Splash.jpg" height="600"/>
+
+<img src="https://github.com/arikaafrinboshra/BMI-App/blob/master/BMI%20SS/Splash.png" height="600"/>
 
 That splash screen, including an illustration, appears instantly when your app starts up and is quickly replaced with the app's first screen, giving the impression that your app is fast and responsive. A splash screen storyboard is also used here.
 
 **Home Page:**
 
- <img src="https://github.com/arikaafrinboshra/BPSC-Quiz-App/blob/master/BPSC%20Quiz%20ss/Home.png" height="600"/>
+ <img src="https://github.com/arikaafrinboshra/BMI-App/blob/master/BMI%20SS/Home.png" height="600"/>      <img src="https://github.com/arikaafrinboshra/BMI-App/blob/master/BMI%20SS/Home2.png" height="600"/>
 
 This is the home page of the BMI app. User have to give their age, sex, height and weight to know their BMI. There is a refresh button to erase all the text at a time. User can select any unit of the height and weight. No fixed combinations. There is a Information button for some specific Information.
 
 **Alert:**
 
-<img src="https://github.com/arikaafrinboshra/BPSC-Quiz-App/blob/master/BPSC%20Quiz%20ss/Home.png" height="600"/>
+<img src="https://github.com/arikaafrinboshra/BMI-App/blob/master/BMI%20SS/Alert.png" height="600"/>
 
 User must have to fill all the information to get the result. Otherwise he/she can't continue. An alert massage will show if any of the field is blank.
 
 **Result:**
 
-<img src="https://github.com/arikaafrinboshra/BPSC-Quiz-App/blob/master/BPSC%20Quiz%20ss/Home.png" height="600"/>
+<img src="https://github.com/arikaafrinboshra/BMI-App/blob/master/BMI%20SS/Result1.png" height="600"/>      <img src="https://github.com/arikaafrinboshra/BMI-App/blob/master/BMI%20SS/Result2.png" height="600"/>
 
 This is the result or BMI of the person according to the Information. A pop view is used and autoscroll to the meter for showing the result.
 
 
 **Info:**
 
-<img src="https://github.com/arikaafrinboshra/BPSC-Quiz-App/blob/master/BPSC%20Quiz%20ss/Home.png" height="600"/>
+<img src="https://github.com/arikaafrinboshra/BMI-App/blob/master/BMI%20SS/Info.png" height="600"/>
 
 This is the page of information. 
 
