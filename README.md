@@ -4,9 +4,6 @@ BMI is a screening tool of your body fatness and your health. To calculate BMI, 
 When you use BMI Calculator service, in order to ensure the normal use of my service, to maintain the normal operation of my service, and to optimise and improve my services, I will collect your personal information. As your age, sex, height and weight. These four informations are enough for proper functioning. And these informations are not sharable to anyone in any way. They will appear on your app cache and will immediately remove after closing the application.
 
 
----
-
-
 ### System Requirement:
 1. Technical Specification: 
    - OS: iOS
@@ -28,11 +25,11 @@ The imperial BMI formula is your weight in pounds (lbs) divided by your height i
 
 Based on your height and weight, you will be assigned to one of the following weight categories:
 
-Underweight - BMI less than 18.5
-Normal healthy weight - BMI between 18.5 and 24.9
-Overweight - BMI between 25.0 and 29.9
-Obese - BMI between 30.0 and 39.9
-Morbidly obese – BMI 40.0 and above
+- Underweight - BMI less than 18.5
+- Normal healthy weight - BMI between 18.5 and 24.9
+- Overweight - BMI between 25.0 and 29.9
+- Obese - BMI between 30.0 and 39.9
+- Morbidly obese – BMI 40.0 and above
 
 
 ### Screenshot of The App: 
@@ -45,7 +42,7 @@ That splash screen, including an illustration, appears instantly when your app s
 
 **Home Page:**
 
- <img src="https://github.com/arikaafrinboshra/BMI-App/blob/master/BMI%20SS/Home.png" height="600"/>      <img src="https://github.com/arikaafrinboshra/BMI-App/blob/master/BMI%20SS/Home2.png" height="600"/>
+<img src="https://github.com/arikaafrinboshra/BMI-App/blob/master/BMI%20SS/Home2.png" height="600"/>                           <img src="https://github.com/arikaafrinboshra/BMI-App/blob/master/BMI%20SS/Home.png" height="600"/>
 
 This is the home page of the BMI app. User have to give their age, sex, height and weight to know their BMI. There is a refresh button to erase all the text at a time. User can select any unit of the height and weight. No fixed combinations. There is a Information button for some specific Information.
 
