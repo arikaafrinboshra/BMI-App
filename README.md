@@ -1,4 +1,4 @@
-# BMI-App
+# BMI App
 BMI is a screening tool of your body fatness and your health. To calculate BMI, the metric formula is your weight in kilograms divided by your height in meters squared. This app is made only for iOS device by which you can easily calculate your BMI.
 
 When you use BMI Calculator service, in order to ensure the normal use of my service, to maintain the normal operation of my service, and to optimise and improve my services, I will collect your personal information. As your age, sex, height and weight. These four informations are enough for proper functioning. And these informations are not sharable to anyone in any way. They will appear on your app cache and will immediately remove after closing the application.
