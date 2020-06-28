@@ -42,7 +42,7 @@ That splash screen, including an illustration, appears instantly when your app s
 
 **Home Page:**
 
-<img src="https://github.com/arikaafrinboshra/BMI-App/blob/master/BMI%20SS/Home2.png" height="600"/>                           <img src="https://github.com/arikaafrinboshra/BMI-App/blob/master/BMI%20SS/Home.png" height="600"/>
+<img src="https://github.com/arikaafrinboshra/BMI-App/blob/master/BMI%20SS/Home2.png" height="600"/>                                                             <img src="https://github.com/arikaafrinboshra/BMI-App/blob/master/BMI%20SS/Home.png" height="600"/>
 
 This is the home page of the BMI app. User have to give their age, sex, height and weight to know their BMI. There is a refresh button to erase all the text at a time. User can select any unit of the height and weight. No fixed combinations. There is a Information button for some specific Information.
 
@@ -64,10 +64,6 @@ This is the result or BMI of the person according to the Information. A pop view
 <img src="https://github.com/arikaafrinboshra/BMI-App/blob/master/BMI%20SS/Info.png" height="600"/>
 
 This is the page of information. 
-
-//**User Guide:**
-
-<img src="vdo.gif" height=600/>
 
 
 
