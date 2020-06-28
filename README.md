@@ -65,7 +65,7 @@ This is the result or BMI of the person according to the Information. A pop view
 
 This is the page of information. 
 
-**User Guide:**
+//**User Guide:**
 
 <img src="vdo.gif" height=600/>
 
