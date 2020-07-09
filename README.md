@@ -10,7 +10,7 @@ When you use BMI Calculator service, in order to ensure the normal use of my ser
    - Programming language: Swift
    - Frontend: Storyboard
 2. User System Requirement: 
-   - iOS version 10 up
+   - iOS version 10 or leter
 4. Development Tools: 
    - XCode
 
